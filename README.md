@@ -29,4 +29,4 @@ To become a strong **Software Engineer** with solid fundamentals, excellent prob
 
 I'm documenting my learning journey through this GitHub profile — from algorithms and programming fundamentals to cloud, systems, and hands-on projects.
 
-Feel free to explore my repositories and follow along as I grow. 🚀
+Feel free to explore my repositories and follow along as I grow. 
