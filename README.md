@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AK
+# Hi, I'm AK
 
 ### Computer Science Student | Aspiring Software Engineer | Problem Solver
 
